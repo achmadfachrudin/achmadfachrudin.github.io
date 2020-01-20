@@ -50,7 +50,7 @@ social_media:
 topics:
   - name: Android
     web_url: https://www.android.com
-    image_url: https://www.gstatic.com/devrel-devsite/vbb62cc5a3e8f17e37bae4792b437f28f787df3f9cf9732cbfcc99b4f4ff41a54/android/images/rebrand/lockup.svg
+    image_url: https://developer.android.com/images/landing/android-logo.svg
 
   - name: Kotlin
     web_url: https://kotlinlang.org
