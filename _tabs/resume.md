@@ -14,8 +14,7 @@ order: 4
 
 ## Summary
 
-With a solid background in Android app development and a proven track record of delivering high-quality mobile applications. Proficient in Kotlin and Jetpack Compose, with knowledge of Flutter and CI/CD practices. 
-I am passionate about developing digital products that create a positive impact. I thrive on tackling new challenges and constantly seek opportunities to push the boundaries of what is possible. Let's connect and explore together.
+Experienced Android Developer with a strong background in developing high-quality mobile applications. Proficient in Kotlin and Jetpack Compose, with additional experience in Flutter and CI/CD practices. Demonstrates a commitment to continuous learning and professional growth, dedicated to creating impactful and innovative mobile solutions.
 
 ---
 
@@ -33,7 +32,7 @@ Developed an application to connect acts of kindness:
 - Created Kotlin scripts for CI/CD requirements.
 - Enhanced the CI/CD pipelines to streamline the development process with GitHub Actions, Bitrise, and Codemagic.
 - Improved unit testing and UI testing.
-- Implemented the basics of KMM (Kotlin Multiplatform Mobile).
+- Implemented the basics of KMP (Kotlin Multiplatform).
 - Mentor other developers, providing guidance and fostering a culture of continuous learning and improvement.
 
 ### Android Engineer

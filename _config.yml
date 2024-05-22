@@ -42,7 +42,7 @@ social:
   email: achmad@duck.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/achmadbook
+    - https://x.com/achmadbook
     - https://www.facebook.com/achmadbook
     - https://github.com/achmadfachrudin
     - https://www.linkedin.com/in/achmadfachrudin
@@ -89,7 +89,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
